@@ -1,18 +1,104 @@
-# React + Vite
+# 🌿 Verde Venture
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern eco-friendly landing page built with **React**, **Vite**, and **Framer Motion**. Verde Venture promotes sustainable living through a clean, immersive, and responsive user interface inspired by premium product websites.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+- 🌿 Modern Hero Section
+- ✨ Glassmorphism UI
+- 🎨 Beautiful Gradients & Animations
+- 📦 Featured Product Showcase
+- 🌍 Global Impact Section
+- 📈 Interactive Timeline
+- 💬 Testimonials
+- 📩 Newsletter Subscription
+- 🧩 Reusable React Components
+- 🎭 Framer Motion Animations
+- 🎯 Lucide Icons
+- 📱 Responsive Design
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+---
 
-Note: This will impact Vite dev & build performances.
+## 🛠 Tech Stack
 
-## Expanding the ESLint configuration
+- React
+- Vite
+- CSS3
+- Framer Motion
+- Lucide React
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📂 Folder Structure
+
+```text
+src
+│
+├── assets
+├── components
+│   ├── common
+│   ├── Hero
+│   ├── Navbar
+│   ├── Products
+│   ├── Timeline
+│   ├── Testimonials
+│   └── Footer
+│
+├── styles
+├── App.jsx
+└── main.jsx
+```
+
+---
+
+## 🚀 Getting Started
+
+Clone the repository
+
+```bash
+git clone https://github.com/zerolagheart/verde-venture.git
+```
+
+Go into the project
+
+```bash
+cd verde-venture
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run the development server
+
+```bash
+npm run dev
+```
+
+Build for production
+
+```bash
+npm run build
+```
+
+---
+
+## 🎯 Project Goals
+
+The objective of this project was to:
+
+- Build a modern React landing page
+- Practice reusable component architecture
+- Explore premium UI animations
+- Create a portfolio-ready frontend project
+- Improve responsive design skills
+
+---
+
+## 📄 License
+
+This project is created for educational and portfolio purposes.
