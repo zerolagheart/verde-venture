@@ -5,12 +5,8 @@
 <h1 align="center">🌿 Verde Venture</h1>
 
 <p align="center">
-Modern eco-friendly landing page built with React, Vite & Framer Motion.
-</p>
-
-# 🌿 Verde Venture
-
 A modern eco-friendly landing page built with **React**, **Vite**, and **Framer Motion**. Verde Venture promotes sustainable living through a clean, immersive, and responsive user interface inspired by premium product websites.
+</p>
 
 ---
 
