@@ -6,7 +6,7 @@ function Footer() {
 
       <div>
 
-        <h2>VERDE</h2>
+        <h2>VERDE VENTURE</h2>
 
         <p>
           Sustainable living made beautiful.
