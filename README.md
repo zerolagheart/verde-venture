@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/screenshots/hero.png" alt="Verde Venture" width="100%">
-</p>
-
 <h1 align="center">🌿 Verde Venture</h1>
 
 <p align="center">
