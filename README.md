@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="assets/images/logo.png" alt="Verde Venture Banner" width="100%">
+  <img src="assets/screenshots/hero.png" alt="Verde Venture" width="100%">
 </p>
 
 <h1 align="center">🌿 Verde Venture</h1>
