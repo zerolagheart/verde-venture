@@ -7,12 +7,11 @@
 <p align="center">
 A modern eco-friendly landing page built with **React**, **Vite**, and **Framer Motion**. Verde Venture promotes sustainable living through a clean, immersive, and responsive user interface inspired by premium product websites.
 </p>
-<p align="center">
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-</p>
 ---
 
 ## ✨ Features
